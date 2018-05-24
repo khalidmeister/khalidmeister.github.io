@@ -1,7 +1,7 @@
 # Irfan Alghani Khalid
-*Mahasiswa Ilmu Komputer IPB*
-*Jl. Bunga Indah No. 5e, Pekanbaru, Riau 28288*
-*+628 1170 1870*
+*Mahasiswa Ilmu Komputer IPB*\
+*Jl. Bunga Indah No. 5e, Pekanbaru, Riau 28288*\
+*+628 1170 1870*\
 *alghani_irfan@yahoo.com*
 ## Pendidikan
 ### Institut Pertanian Bogor -- Calon S.Komp
@@ -27,10 +27,3 @@ Renang, Main Game, Belajar hal yang baru, Baca Buku
 ```c
   printf("Hello World\n");
 ```
-
-## Tabel
- NIM  Nama  Nilai
------ ----- -----
-001   Alpha 70\
-002   Beta  80\
-003   Gamma 100\
