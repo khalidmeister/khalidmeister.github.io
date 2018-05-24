@@ -22,8 +22,3 @@ Ags 2014 - Mei 2017
 - Graphic Design
 ## Hobi
 Renang, Main Game, Belajar hal yang baru, Baca Buku
-
-## Kode
-```c
-  printf("Hello World\n");
-```
