@@ -4,7 +4,7 @@
 *+628 1170 1870*\
 *alghani_irfan@yahoo.com*
 ## Pendidikan
-  ### Institut Pertanian Bogor --- Calon S.Komp
+  ### Institut Pertanian Bogor -- Calon S.Komp
 Sep 2017 - ...\
 Calon Sarjana Ilmu Komputer
   ### SMA Negeri 6 Pekanbaru
