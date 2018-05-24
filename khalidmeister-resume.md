@@ -1,4 +1,4 @@
-# Irfan Alghani K
+# Irfan Alghani Khalid
 *Mahasiswa Ilmu Komputer IPB*<br>
 *Jl. Bunga Indah No. 5e, Pekanbaru, Riau 28288*<br>
 *+628 1170 1870*<br>
