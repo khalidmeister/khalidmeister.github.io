@@ -8,9 +8,18 @@ body {
     font-size: 72px;
     text-align: center;
 }
+
 p {
     color: white;
-    font-size: 36px;
-    font-weight: 400;
     font-family: 'Lato', sans-serif;
+}
+
+.description-header {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.description-content {
+    font-weight: 400;
+    font-size: 24px;    
 }
