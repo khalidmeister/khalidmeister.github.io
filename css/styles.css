@@ -17,9 +17,11 @@ p {
 .description-header {
     font-size: 36px;
     font-weight: 700;
+    margin: 10px;
 }
 
 .description-content {
     font-weight: 400;
-    font-size: 24px;    
+    font-size: 24px;
+    margin: 10px 0px 10px 30px    
 }
