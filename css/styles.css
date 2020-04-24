@@ -29,6 +29,10 @@ section {
     order: 1;
 }
 
+.photo img {
+    width: 240px;
+}
+
 .description {
     flex: 2;
     order: 2;
