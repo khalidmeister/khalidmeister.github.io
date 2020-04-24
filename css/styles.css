@@ -3,6 +3,7 @@ body {
 }
 section {
   width: 100%;
+  padding: 72px 0;
 }
 
 #welcome {
@@ -35,18 +36,26 @@ section {
   font-size: 72px;
   font-weight: 700;
   text-align: center;
-  margin: 72px 0;
+  margin: 0px 0px 50px;
 }
 
 .box {
   display: flex;
 }
 
-.photo { flex: 1; order: 1;}
+.photo {
+  flex: 1;
+  order: 1;
+}
 
-.photo img { width: 420px; }
+.photo img {
+  width: 420px;
+}
 
-.description { flex: 2; order: 2; }
+.description {
+  flex: 2;
+  order: 2;
+}
 
 p {
   font-family: "Lato", sans-serif;
