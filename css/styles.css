@@ -1,77 +1,65 @@
 body {
-    background-color: black;
-  }
-  
-  section {
-    width: 95%;
-    padding: 2.5%;
-  }
-  
-  #welcome {
-    background-color: black;
-    color: white;
-  }
-  
-  #welcome p {
-    font-weight: 700;
-    font-size: 72px;
-    text-align: center;
-  }
-  
-  #profile {
-    background-color: white;
-    color: black;
-  }
-  
-  #portfolio {
-    background-color: black;
-    color: white;
-    padding: 10px;
-  }
-  
-  #contact {
-    background-color: white;
-    color: black;
-  }
-  
-  .subtitle p {
-    font-size: 72px;
-    font-weight: 700;
-    text-align: center;
-  }
-  
-  .box {
-    display: flex;
-    padding: 30px;
-  }
-  
-  .photo {
-    flex: 1;
-    order: 1;
-  }
-  
-  .photo img {
-    width: 420px;
-  }
-  
-  .description {
-    flex: 2;
-    order: 2;
-  }
-  
-  p {
-    font-family: "Lato", sans-serif;
-  }
-  
-  .description-header {
-    font-size: 36px;
-    font-weight: 700;
-    margin: 10px;
-  }
-  
-  .description-content {
-    font-size: 24px;
-    font-weight: 400;
-    margin: 10px 0px 10px 30px;
-  }
-  
+  background-color: black;
+}
+section {
+  width: 100%;
+}
+
+#welcome {
+  background-color: black;
+  color: white;
+}
+
+#welcome p {
+  font-weight: 700;
+  font-size: 72px;
+  text-align: center;
+}
+
+#profile {
+  background-color: white;
+  color: black;
+}
+
+#portfolio {
+  background-color: black;
+  color: white;
+}
+
+#contact {
+  background-color: white;
+  color: black;
+}
+
+.subtitle p {
+  font-size: 72px;
+  font-weight: 700;
+  text-align: center;
+  margin: 72px 0;
+}
+
+.box {
+  display: flex;
+}
+
+.photo { flex: 1; order: 1;}
+
+.photo img { width: 420px; }
+
+.description { flex: 2; order: 2; }
+
+p {
+  font-family: "Lato", sans-serif;
+}
+
+.description-header {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 10px;
+}
+
+.description-content {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 10px 0px 10px 30px;
+}
