@@ -1,6 +1,7 @@
 body {
-    background-color: blue;
+    background-color: black;
 }
 p {
+    color: white;
     font-family: 'Lato', sans-serif;
 }
