@@ -9,6 +9,7 @@ section {
 
 #welcome {
     background-color: black;
+    color: white;
 }
 
 #profile {
@@ -18,16 +19,16 @@ section {
 
 #portfolio {
     background-color: black;
+    color: white;
 }
 
 #footer {
     background-color: white;
+    color: black;
 }
 
 #welcome p {
-    color: white;
     font-weight: 700;
-    font-family: 'Lato', sans-serif;
     font-size: 72px;
     text-align: center;
 }
@@ -43,7 +44,7 @@ p {
 }
 
 .description-content {
-    font-weight: 400;
     font-size: 24px;
+    font-weight: 400;
     margin: 10px 0px 10px 30px    
 }
