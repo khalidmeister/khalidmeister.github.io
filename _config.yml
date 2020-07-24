@@ -10,18 +10,18 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: irfanalghani11@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  irfan:
+    name: Irfan Alghani Khalid
+    display_name: Irfan
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: irfanalghani11@gmail.com
+    web: https://khalidmeister.github.io
+    twitter: https://twitter.com/MixtureModels
+    description: "Data Science Enthusiast | Avgeek | Muslim"
 
 # Plugins
 plugins:
