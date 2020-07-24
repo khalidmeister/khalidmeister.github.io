@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About Myself 
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Hello world! My name is Irfan Alghani Khalid, and you can call me Irfan. I'm 21 years old, and now I'm a bachelor student at IPB University in Computer Science. I have an interest on Machine Learning and Data Science to solve real world problems with it, and also I'm an avgeek (aviation geek). I describe myself as a curious person, eager to learn, and believe in process and also growth mindset.
+
+Halo dunia! Perkenalkan, saya Irfan Alghani Khalid, dan kalian bisa panggil saya Irfan. Saya berumur 21 tahun, dan sekarang menempuh pendidikan sarjana di Institut Pertanian Bogor dengan program studi Ilmu Komputer. Saya memiliki ketertarikan yang besar terhadap Machine Learning dan Data Science untuk menyelesaikan permasalahan di dunia, dan selain itu, saya seorang pecinta pesawat (avgeek). Saya mendeskripsikan diri saya sebagai orang yang ingin belajar, rasa ingin tahu yang tinggi, dan percaya segala hal terbentuk dari proses dan menanamkan growth mindset pada diri sendiri.
 
 <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
 
