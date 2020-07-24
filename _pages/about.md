@@ -3,7 +3,7 @@ layout: page
 title: About Myself 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/profile.jpg
 imageshadow: true
 ---
 
