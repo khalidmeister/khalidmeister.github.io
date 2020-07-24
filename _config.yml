@@ -1,7 +1,7 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Hello World! Welcome to my page. I'm a computer science student that has a huge interest on Machine Learning and Data Science!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
