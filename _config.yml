@@ -2,8 +2,8 @@
 name: "Irfan Alghani Khalid"
 title: "Irfan Alghani Khalid"
 description: "Hello World! Welcome to my page. I'm a computer science student that has a huge interest on Machine Learning and Data Science!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/my-logo.png'
+favicon: 'assets/images/my-logo.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
