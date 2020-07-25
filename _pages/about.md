@@ -11,5 +11,14 @@ Hello world! My name is Irfan Alghani Khalid, and you can call me Irfan. I'm 21 
 
 Halo dunia! Perkenalkan, saya Irfan Alghani Khalid, dan kalian bisa panggil saya Irfan. Saya berumur 21 tahun, dan sekarang menempuh pendidikan sarjana di Institut Pertanian Bogor dengan program studi Ilmu Komputer. Saya memiliki ketertarikan yang besar terhadap Machine Learning dan Data Science untuk menyelesaikan permasalahan di dunia, dan selain itu, saya seorang pecinta pesawat (avgeek). Saya mendeskripsikan diri saya sebagai orang yang ingin belajar, rasa ingin tahu yang tinggi, dan percaya segala hal terbentuk dari proses dan menanamkan growth mindset pada diri sendiri.
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<div class="container">
+	<div class="text-center center-block">
+		<h2>Connect With Me!</h2>
+		<br />
+            <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook fa-3x social"></i></a>
+            <a href="https://twitter.com/MixtureModels"><i id="social-tw" class="fa fa-twitter fa-3x social"></i></a>
+            <a href="https://www.linkedin.com/in/alghaniirfan/"><i id="social-lk" class="fa fa-linkedin fa-3x social"></i></a>
+            <a href="mailto:irfanalghani11@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+	</div>
+</div>
 
