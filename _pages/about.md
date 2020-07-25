@@ -13,7 +13,7 @@ Halo dunia! Perkenalkan, saya Irfan Alghani Khalid, dan kalian bisa panggil saya
 
 <div class="container">
 	<div class="text-center center-block">
-		<h2>Connect With Me!</h2>
+		<h1>Connect With Me!</h1>
 		<br />
             <a href="https://www.facebook.com/alghaniirfan/" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
             <a href="https://twitter.com/MixtureModels" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
