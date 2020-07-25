@@ -15,10 +15,10 @@ Halo dunia! Perkenalkan, saya Irfan Alghani Khalid, dan kalian bisa panggil saya
 	<div class="text-center center-block">
 		<h2>Connect With Me!</h2>
 		<br />
-            <a href="https://www.facebook.com/alghaniirfan/"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="https://twitter.com/MixtureModels"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="https://www.linkedin.com/in/alghaniirfan/"><i class="fa fa-linkedin-square fa-3x social"></i></a>
-            <a href="mailto:irfanalghani11@gmail.com"><i class="fa fa-envelope-square fa-3x social"></i></a>
+            <a href="https://www.facebook.com/alghaniirfan/" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="https://twitter.com/MixtureModels" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
+            <a href="https://www.linkedin.com/in/alghaniirfan/" target="_blank"><i class="fa fa-linkedin-square fa-3x social"></i></a>
+            <a href="mailto:irfanalghani11@gmail.com" target="_blank"><i class="fa fa-envelope-square fa-3x social"></i></a>
 	</div>
 </div>
 
